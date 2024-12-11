@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MMIKit",
-            url: "https://kettleartifacts.blob.core.windows.net/ios/mmi/1.0.1.zip",
-            checksum: "b87a0526e00dc1712a25e8e8ab8354a60fc95d4ac7f394251ea6d64f917654c8"
+            url: "https://kettleartifacts.blob.core.windows.net/ios/mmi/1.0.2.zip",
+            checksum: "6710640ec59ecf2150e7df70fb6217e96167d87bf92dc2cb42db2269272fa95a"
         ),
     ]
 )
